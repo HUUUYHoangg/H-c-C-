@@ -10,8 +10,6 @@ int main(){
   string address; // dia chi 
   cout << "Hello world " << std ::endl; 
   cout << "Codegym C++ " << std ::endl;
-
-
   cout << " Moi Nhap ma so ";
   cin >> id;
   cin.ignore(); 
@@ -21,4 +19,4 @@ int main(){
 
   cout << " ID: " << id << " address " << address << endl;
 return 0;
-}
+} 
